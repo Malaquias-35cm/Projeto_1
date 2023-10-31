@@ -1,0 +1,37 @@
+{
+    //editor
+    "editor.wordWrap": "on",
+    "editor.fontSize": 18,
+    "editor.lineHeight": 30,
+    "editor.tabSize": 2,
+    "editor.bacKetPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.minimap.enabled": false,
+    "editor.fomratOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.autoSave":"afterDelay",
+
+    //explorer
+    "exlorer.compacFloders": false,
+
+    //workbench
+    "workbench.editor.enablePeview":false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme":"Omni",
+
+    //prettier
+    "editor.defalutFormatter":"esbenp.prettier-vscode",
+    "prettier.enable": true,
+    "prettier.singleQuote": false,
+    "prettier.tabWidth": 2,
+    "prettier.semi": false,
+
+    //terminal
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.profiles.windows": {
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows":"Git Bash"
+}
